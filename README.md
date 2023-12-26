@@ -1,1 +1,0 @@
-# Criando-um-Amazon-S3-com-buckets-usando-AWS-SDK-for-Java-2.x
