@@ -36,3 +36,13 @@ Below is the structure of the generated project.
 mvn clean package
 ```
 
+## Documentos de referências com tudo necessário aos estudos
+
+    aws-sdk-java-dg-v2 - EM INGLÊS.pdf
+    aws-sdk-java-dg-v2 - EM PORTUGUÊS.pdf
+
+
+![img.png](img.png)
+
+![img_1.png](img_1.png)
+
